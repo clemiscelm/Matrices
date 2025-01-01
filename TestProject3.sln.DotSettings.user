@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AAssert_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003F46a322d26154b982566e1817203e5452c91223f93b0e392d9c5b4806696fdc1_003FAssert_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ca851369_002D9cdc_002D4a50_002D8aba_002Da0d16dc6487f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests01_NewMatrices" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::31B86369-52D1-4D16-8E5B-221A5888684A::net8.0::Maths_Matrices.Tests.Tests01_NewMatrices&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::31B86369-52D1-4D16-8E5B-221A5888684A::net8.0::Maths_Matrices.Tests.Tests02_CopyAndModifyMatrices&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::31B86369-52D1-4D16-8E5B-221A5888684A::net8.0::Maths_Matrices.Tests.Tests03_IdentityMatrices&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::31B86369-52D1-4D16-8E5B-221A5888684A::net8.0::Maths_Matrices.Tests.Tests09_AugmentedMatricesAndSplit&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::31B86369-52D1-4D16-8E5B-221A5888684A::net8.0::Maths_Matrices.Tests.Tests10_RowReduction&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;31B86369-52D1-4D16-8E5B-221A5888684A/f:Tests04_ScalarMultiplication.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;31B86369-52D1-4D16-8E5B-221A5888684A/f:Tests05_MatricesAddAndSubtract.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;31B86369-52D1-4D16-8E5B-221A5888684A/f:Tests06_MatricesMultiplication.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;31B86369-52D1-4D16-8E5B-221A5888684A/f:Tests07_TransposeMatrices.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;31B86369-52D1-4D16-8E5B-221A5888684A/f:Tests08_ElementaryOperation.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fcf33766_002D80a1_002D49c0_002D9bd5_002D0e40bdb73c46/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestNewEmptyMatrices" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\clemc\Desktop\travaille\Matrices Tests Unitaires\TestProject3\TestProject3" Presentation="&amp;lt;TestProject3&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
